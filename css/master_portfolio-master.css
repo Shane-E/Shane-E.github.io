@@ -1,0 +1,185 @@
+#u1028
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #121B2F;
+	border-radius: 10px;
+}
+
+#u1012-6
+{
+	background-color: transparent;
+	text-align: left;
+}
+
+#u1012-2
+{
+	font-size: 24px;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-family: Courier New, Courier, monospace;
+	font-weight: normal;
+}
+
+#u1012-4
+{
+	font-size: 12px;
+	line-height: 14px;
+	color: #CCFF99;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#buttonu1033
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #42FF99;
+	border-radius: 4px;
+}
+
+#buttonu1033:hover
+{
+	background-color: #CCFF99;
+}
+
+#u1034-4
+{
+	background-color: transparent;
+	color: #3C3C3C;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#buttonu1014
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #42FF99;
+	border-radius: 4px;
+}
+
+#buttonu1033.ButtonSelected,#buttonu1014:hover
+{
+	background-color: #CCFF99;
+}
+
+#u1015-4
+{
+	background-color: transparent;
+	color: #3C3C3C;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#buttonu1024
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #42FF99;
+	border-radius: 4px;
+}
+
+#buttonu1014.ButtonSelected,#buttonu1024:hover
+{
+	background-color: #CCFF99;
+}
+
+#u1025-4
+{
+	background-color: transparent;
+	color: #3C3C3C;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#buttonu1024:hover #u1025-4 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+#buttonu1026
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #42FF99;
+	border-radius: 4px;
+}
+
+#buttonu1024.ButtonSelected,#buttonu1026:hover
+{
+	background-color: #CCFF99;
+}
+
+#buttonu1026.ButtonSelected
+{
+	background-color: #CCFF99;
+}
+
+#u1027-4
+{
+	background-color: transparent;
+	color: #3C3C3C;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#buttonu1024.ButtonSelected #u1025-4 p,#buttonu1026:hover #u1027-4 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+#buttonu1026.ButtonSelected #u1027-4 p
+{
+	color: #3C3C3C;
+	visibility: inherit;
+}
+
+#u1681
+{
+	-pie-box-shadow: 4px 4px 8px #7F7F7F;
+	box-shadow: 4px 4px 8px rgba(0,0,0,0.5);
+	background-color: #121B2F;
+	border-radius: 10px;
+}
+
+#u1685
+{
+	background-color: transparent;
+}
+
+#u1011,#u1013,#u1680,#u1682
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u1684-14
+{
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+}
+
+#u1683-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+

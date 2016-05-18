@@ -1,0 +1,54 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.personal.psu.edu/sue2/eportfolio" resolutions="1x" timestamp="1463552470208">
+  <folder name="css">
+    <file name="site_global.css" crc="106494809"/>
+    <file name="master_portfolio-master.css" crc="3895947937" ref="resources:standing-wave-model:minigolf-game:bohr-model:space-survival-game:actionscript-game"/>
+    <file name="index.css" crc="119789881" ref="index"/>
+    <file name="resources.css" crc="875446" ref="resources"/>
+    <file name="standing-wave-model.css" crc="226698080" ref="standing-wave-model"/>
+    <file name="minigolf-game.css" crc="3779967955" ref="minigolf-game"/>
+    <file name="bohr-model.css" crc="3856199940" ref="bohr-model"/>
+    <file name="space-survival-game.css" crc="4294182805" ref="space-survival-game"/>
+    <file name="actionscript-game.css" crc="4285255510" ref="actionscript-game"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:standing-wave-model:bohr-model:actionscript-game:resources:minigolf-game:space-survival-game"/>
+    <file name="museutils.js" crc="3790713428" ref="index:standing-wave-model:bohr-model:actionscript-game:resources:minigolf-game:space-survival-game"/>
+    <file name="whatinput.js" crc="84559013" ref="index:standing-wave-model:bohr-model:actionscript-game:resources:minigolf-game:space-survival-game"/>
+    <file name="pie.js" crc="3827607177" ref="index:standing-wave-model:bohr-model:actionscript-game"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:standing-wave-model:bohr-model:actionscript-game:resources:minigolf-game:space-survival-game"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="codebackground.jpg" crc="3975208534" seo="true" ref="index"/>
+    <file name="computermonitor.png" crc="4149100841" seo="true" ref="index"/>
+    <file name="down53.png" crc="4285456525" seo="true" ref="index:resources"/>
+    <file name="istbuilding.jpg" crc="48771789" seo="true" ref="index"/>
+    <file name="img_9498.jpg" crc="249504420" seo="true" ref="index"/>
+    <file name="java7.png" crc="4068314491" seo="true" ref="index"/>
+    <file name="website14.png" crc="416264851" seo="true" ref="index"/>
+    <file name="html9.png" crc="4148479842" seo="true" ref="index"/>
+    <file name="css5.png" crc="381479803" seo="true" ref="index"/>
+    <file name="logotype49.png" crc="333690690" seo="true" ref="index"/>
+    <file name="web-programming.png" crc="4106019106" seo="true" ref="index"/>
+    <file name="video97.png" crc="341530403" seo="true" ref="index"/>
+    <file name="teamwork.png" crc="401962020" seo="true" ref="index"/>
+    <file name="lionstatue.jpg" crc="59549648" seo="true" ref="index"/>
+    <file name="bohr model 2.jpg" crc="4111107917" seo="true" ref="index"/>
+    <file name="standing wave296x230.jpg" crc="293687050" seo="true" ref="index"/>
+    <file name="workinprogress.jpg" crc="4252850750" seo="true" ref="index"/>
+    <file name="actionscript frogger287x206.jpg" crc="4213024665" seo="true" ref="index"/>
+    <file name="cat6.png" crc="88816142" seo="true" ref="index:resources"/>
+    <file name="standing wave.jpg" crc="386465598" seo="true" ref="standing-wave-model"/>
+    <file name="bohr model 22.jpg" crc="451271591" seo="true" ref="bohr-model"/>
+    <file name="actionscript frogger.jpg" crc="265263967" seo="true" ref="actionscript-game"/>
+    <file name="actionscript frogger 2.jpg" crc="506813464" seo="true" ref="actionscript-game"/>
+    <file name="email5.png" crc="296244794" seo="true" ref="resources"/>
+  </folder>
+  <file name="index.html" crc="101048766" seo="true" mt="1463531421295" redirect="true"/>
+  <file name="standing-wave-model.html" crc="4021336493" seo="true" mt="1463465165074" redirect="true"/>
+  <file name="bohr-model.html" crc="497221771" seo="true" mt="1463451938558" redirect="true"/>
+  <file name="actionscript-game.html" crc="4262434803" seo="true" mt="1463532108400" redirect="true"/>
+  <file name="resources.html" crc="255309476" seo="true" mt="1463532164725" redirect="true"/>
+  <file name="minigolf-game.html" crc="3871848306" seo="true" mt="1463451975234" redirect="true"/>
+  <file name="space-survival-game.html" crc="4224205286" seo="true" mt="1463451801289" redirect="true"/>
+</manifest>
