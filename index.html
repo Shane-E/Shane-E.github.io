@@ -325,9 +325,9 @@ rssfeed_no_items="0";
 rssfeed_cache = "974fb33cb62b0c94faa72c312fb1ae85"; 
 //--> 
 </script> 
-<script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script> 
-<!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. --> 
-<div style="text-align:right; width:600px;"><a href="http://www.surfing-waves.com/feed.htm" target="_blank" style="color:#ccc;font-size:10px">widget @</a> <a href="http://www.surfing-waves.com" target="_blank" style="color:#ccc;font-size:10px">surfing-waves.com</a></div> 
+<script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script>
+<!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. -->
+<div style="text-align:right; width:600px;"><a href="http://www.surfing-waves.com/feed.htm" target="_blank" style="color:#ccc;font-size:10px">widget @</a> <a href="http://www.surfing-waves.com" target="_blank" style="color:#ccc;font-size:10px">surfing-waves.com</a></div>
 <!-- end sw-rss-feed code -->
 </div>
      </div>
@@ -388,10 +388,20 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
  $(document).ready(function(){
   $('.portfolioPics').hover(
      function(){
-       $(this).animate({'top': '-20px'}, 'fast')
+       animateSlideUp($(this));
+       animateSlideUp($(this).next('div'))
   }, function(){
-       $(this).animate({'top': '0px'}, 'fast')
+       animateSlideDown($(this));
+       animateSlideDown($(this).next('div'))
   });
+
+  function animateSlideUp(target){
+   target.animate({'top': '-15px'}, 'fast');
+  }
+
+  function animateSlideDown(target){
+   target.animate({'top': '0px'}, 'fast');
+  }
  });
 </script>
    </body>
